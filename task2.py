@@ -5,7 +5,7 @@ import requests
 from reddit import Reddit
 from ya_disk import YandexDisk
 
-TOKEN = "y0_AgAAAAACrMhFAADLWwAAAADjV8UKlgi4Bap8SUKfTNgeQvsYooQKnzY"
+TOKEN = ""
 
 
 
